@@ -3,10 +3,10 @@
 I'm a Second Year Computer Science Student [4th semester], who has a keen interest in Development and Artificial Intelligence & Machine Learning, especially in the subdomain of Natural Language Processing, LLMs and Deeplearning.
 
 **My Current Skills :**
-  *Languages* : Python, C++, C
-  *Tools* : Django, Numpy, Pandas, Linear Algebra, Calculus
-  *Databases* : SQL, PostGreSQL (learning)
-  *Other Skills* : HTML, CSS, JavaScript (learning)
+- *Languages* : Python, C++, C
+- *Tools* : Django, Numpy, Pandas, Linear Algebra, Calculus
+- *Databases* : SQL, PostGreSQL (learning)
+- *Other Skills* : HTML, CSS, JavaScript (learning)
 
 
  => I also like to do some Competitive Programming for FUN !!
@@ -14,9 +14,9 @@ I'm a Second Year Computer Science Student [4th semester], who has a keen intere
 
 **Open Source Contributions :**
 
-  **Wagtail** A Django Based Content management System trusted by institutes like MIT and Organizations like NASA.
+**Wagtail** A Django Based Content management System trusted by institutes like MIT and Organizations like NASA.
 
-  **Learning Equality** Python based Org with mission to spread knowledge access to everyone
+**Learning Equality** Python based Org with mission to spread knowledge access to everyone
   
 **My Hobbies**
 1. Reading Books [mostly self-improvement]
