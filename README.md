@@ -19,8 +19,8 @@ I'm a Second Year Computer Science Student [4th semester], who has a keen intere
 ### Open Source Contributions :
 
 **Wagtail**  :    A Django Based Content management System trusted by institutes like MIT and Organizations like NASA.
-
 **Learning Equality**    :  Open-source nonprofit building scalable, Python-based educational platforms with a focus on offline-first access and global impact.
+**Zulip**  :   An open-source, topic-based team chat application designed for both real-time and asynchronous communication
   
 ### My Hobbies
 1. Reading Books [mostly self-improvement]
