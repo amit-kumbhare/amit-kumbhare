@@ -1,4 +1,4 @@
-## Hey I'm Amit 👋🏻, welcome to my pf !!
+## Hey I'm Amit 👋🏻, welcome to my github !!
 
 I'm a Third Year Computer Science Student [5th semester], who has a keen interest in Development and Artificial Intelligence & Machine Learning, especially in the subdomain of Natural Language Processing, LLMs and Deeplearning.
 Currently building and shipping scalable full stack Applied AI applications.
