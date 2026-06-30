@@ -28,14 +28,6 @@ Currently building and shipping scalable full stack Applied AI applications.
 ![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-6B7280?style=flat)
 ![Calculus](https://img.shields.io/badge/Calculus-6B7280?style=flat)
 
-
-💡 *I also like to do some Competitive Programming for FUN !!*
-
- 
-#### Platforms:
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)
-![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=flat)
-
 #### Technical Portfolio
 I make technical video documentation of my projects on YT and plan to expand more.
 Check out my [Channel](https://www.youtube.com/@amit-kumbhare19).
